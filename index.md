@@ -8,4 +8,4 @@ title: Home
 Click here to learn more → [About Me](about.md)
 
 ##Notebook
-[Go to my notebook](notebook.mdd)
+[Go to my notebook](notebook.md)
