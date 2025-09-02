@@ -21,7 +21,6 @@ Use italic for emphasis or side comments.
 
 Use inline code for keywords, functions, or commands.
 
-  ##FlutterNotes 
 
 ✅ Example:
 
