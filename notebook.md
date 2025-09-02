@@ -82,36 +82,35 @@ When to use: Call out notes, reminders, or teacher comments.
 
 ✅ Example:
 
-> 💡 Remember: Loops repeat code until a condition is false.
+## table of contents 
 
-## Flutter Notes
-
-### What is Flutter?
-- Definition:
-- Why is it useful?
-
+# Flutter Notes
+# What is Flutter?
+- Definition: A framework made by google for building apps that work on web
+- Why is it useful? 
+less time, less money, more profit
 ---
 
 ### Key Terms and Definitions
 
 | Term             | Definition                                      | Example / Notes                          |
 |------------------|--------------------------------------------------|-------------------------------------------|
-| Widget           |                                                  |                                           |
-| MaterialApp      |                                                  |                                           |
-| Scaffold         |                                                  |                                           |
-| StatelessWidget  |                                                  |                                           |
-| StatefulWidget   |                                                  |                                           |
-| Navigator        |                                                  |                                           |
-| AppBar           |                                                  |                                           |
-| Column           |                                                  |                                           |
-| Row              |                                                  |                                           |
-| Container        |                                                  |                                           |
+| Widget           | basic build block of a flutter app. Everything is a widget | text, image, container, column  |
+| MaterialApp      |   the root of the app sets up routes and themes  |   found in main. dart                     |
+| Scaffold         |   provides basic visual layout                   |  each screen uses it                      |
+| StatelessWidget  |  a widget that can change over time              | '/',//page2    etc.                       |
+| StatefulWidget   |  a widget that doesnt change                     | most of the screen files                  |
+| Navigator        | manage screen transition                         | navigatepus.screen                        |
+| AppBar           | top navigation bar                               | title of each page appears here           |
+| Column           |  vertical layout                                 |                                           |
+| Row              | horzontal layout                                 |                                           |
+| Container        | wraps content with padding and color             |                                           |
 | Text             |                                                  |                                           |
-| Image.network    |                                                  |                                           |
+| Image.network    |  display images for a URL                        |                                           |
 
-| Padding    |                    |                     |
+| Padding    |      adds space aroung a wedge              |                     |
 
-| Center      |                    |                     |
+| Center      |     center its child               |                     |
 
 --- 
 
