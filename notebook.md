@@ -84,7 +84,36 @@ When to use: Call out notes, reminders, or teacher comments.
 
 > 💡 Remember: Loops repeat code until a condition is false.
 
- 
+## Flutter Notes
+
+### What is Flutter?
+- Definition:
+- Why is it useful?
+
+---
+
+### Key Terms and Definitions
+
+| Term             | Definition                                      | Example / Notes                          |
+|------------------|--------------------------------------------------|-------------------------------------------|
+| Widget           |                                                  |                                           |
+| MaterialApp      |                                                  |                                           |
+| Scaffold         |                                                  |                                           |
+| StatelessWidget  |                                                  |                                           |
+| StatefulWidget   |                                                  |                                           |
+| Navigator        |                                                  |                                           |
+| AppBar           |                                                  |                                           |
+| Column           |                                                  |                                           |
+| Row              |                                                  |                                           |
+| Container        |                                                  |                                           |
+| Text             |                                                  |                                           |
+| Image.network    |                                                  |                                           |
+
+| Padding    |                    |                     |
+
+| Center      |                    |                     |
+
+--- 
 
 📊 Tables
 When to use: Compare values, track progress, or organize data neatly.
