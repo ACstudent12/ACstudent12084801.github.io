@@ -125,16 +125,16 @@ less time, less money, more profit
 |------|------------|--------------------------|-------------------|-------------|
 
 | Varible | A named container used to store a value that may change. | `var x = 5;` | Age |  | 
-|      | A fixed value that cannot change once set. | `const PI = 3.14;` |  |  |
-|      | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` |  |  |
-|      | A sequence of characters used to represent words or text. | `"Hello World"` |  |  |
-|      | Whole number values. | `int age = 16;` |  |  |
-|      | Number values with decimals. | `double age = 16.2;` |  |  |
-|      | A value that can be true or false. | `bool isLoggedIn = false;` |  |  |
-|      | A collection of values in a specific order. | `List<String> names = [];` |  |  |
-|      | A special value that means “nothing.” | `String? name = null;` |  |  |
-|      | A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` |  |  |
-|      | The information passed into a function to change how it works. | `greet(String name)` |  |  |
+| Constant | A fixed value that cannot change once set. | `const PI = 3.14;` | size |  |
+| Data Type | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` | numbers |  |
+| String | A sequence of characters used to represent words or text. | `"Hello World"` | emojis |  |
+| Integer | Whole number values. | `int age = 16;` | streak counter |  |
+| Double | Number values with decimals. | `double age = 16.2;` | caculator |  |
+| Boolean | A value that can be true or false. | `bool isLoggedIn = false;` | practise |  |
+| List | A collection of values in a specific order. | `List<String> names = [];` | folder |  |
+| Null | A special value that means “nothing.” | `String? name = null;` | search bar |  |
+| Function | A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` | powerbox |  |
+|  | The information passed into a function to change how it works. | `greet(String name)` |  |  |
 |      | The result a function gives back. | `return total;` |  |  |
 |      | Where a variable or function can be used. | (No set syntax — concept-based) |  |  |
 |      | Blueprint for creating objects with specific structure and behavior. | `class Dog {}` |  |  |
