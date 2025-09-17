@@ -136,15 +136,15 @@ less time, less money, more profit
 | Function | A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` | powerbox |  |
 | Parameter | The information passed into a function to change how it works. | `greet(String name)` | adding money into account |  |
 | Return | The result a function gives back. | `return total;` | receipts |  |
-|      | Where a variable or function can be used. | (No set syntax — concept-based) |  |  |
-|      | Blueprint for creating objects with specific structure and behavior. | `class Dog {}` |  |  |
-|      | A specific version of a class. | `Dog myDog = Dog();` |  |  |
-|      | A variable that belongs to a class/object. | `String name;` |  |  |
-|      | A function that belongs to a class. | `void bark() {}` |  |  |
-|      | A special function used to set up a class when it’s created. | `Dog(this.name);` |  |  |
-|      | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) |  | 
-|      | Changing how a built-in or inherited function behaves. | `@override` |  |  |
-|      | A function that does not return a value. | `void printMessage() {}` |  |  |
+| Scope | Where a variable or function can be used. | (No set syntax — concept-based) | school id |  |
+| Class | Blueprint for creating objects with specific structure and behavior. | `class Dog {}` | building |  |
+| Object | A specific version of a class. | `Dog myDog = Dog();` | object |  |
+| Proptery | A variable that belongs to a class/object. | `String name;` | names |  |
+| Method | A function that belongs to a class. | `void bark() {}` | walking |  |
+| Constructor | A special function used to set up a class when it’s created. | `Dog(this.name);` | Wweight |  |
+| Abstraction | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) | art | 
+| Override | Changing how a built-in or inherited function behaves. | `@override` | cheatcode |  |
+| Void | A function that does not return a value. | `void printMessage() {}` | donations |  |
 
 📊 Tables
 When to use: Compare values, track progress, or organize data neatly.
