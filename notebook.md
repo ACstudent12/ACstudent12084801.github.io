@@ -101,8 +101,7 @@ less time, less money, more profit
 
 | Term | Definition and Description | Base Structure | Real Life Example | App Example |
 |------|----------------------------|----------------|-------------------|-------------|
-| Main | A function that runs when your app starts. It tells Flutter what app to show. | `void main() => runApp(MyApp());` | anything starts |  |
-
+| Main | A function that runs when your app starts. It tells Flutter what app to show. | `voimain                                                                                                                           () => runApp(MyApp());` | anything starts |  | in main.dart, voidmain() => runApp(MrPortfolioApp()); |
 | MaterialApp | The widget that sets up your whole app’s look and navigation. | `MaterialApp(...)` | sets up |  |
 
 | Scaffold | A widget that gives you the basic layout: background, navigation bar, floating button, etc. | `Scaffold(...)` | format |  |
@@ -174,10 +173,11 @@ less time, less money, more profit
 
 |------|------------|--------------------------|-------------------|-------------|
 
-| Varible | A named container used to store a value that may change. | `var x = 5;` | age |  | 
-| Constant | A fixed value that cannot change once set. | `const PI = 3.14;` | size |  |
-| Data Type | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` | numbers |  |
-| String | A sequence of characters used to represent words or text. | `"Hello World"` | emojis |  |
+| Varible | A named container used to store a value that may change. | `var x = 5;` | age | main.dart title: 'TSA
+| Constant | A fixed value that cannot change once set. | `const PI = 3.14;` | size | main.dart, const MyPortfolioApp(super.key)}; 
+| Data Type | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` | numbers | main.dart, bool, 
+| String | A sequence of characters used to represent words or text. | `"Hello World"` | emojis |  
+debugShowCheckedModeBanner: false, |
 | Integer | Whole number values. | `int age = 16;` | streak counter |  |
 | Double | Number values with decimals. | `double age = 16.2;` | caculator |  |
 | Boolean | A value that can be true or false. | `bool isLoggedIn = false;` | practise |  |
