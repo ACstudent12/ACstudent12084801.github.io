@@ -129,19 +129,19 @@ less time, less money, more profit
 
 | Padding | Makes space around a widget inside its container. | `Padding(padding: EdgeInsets.all(8.0), child: ...)` |  |  |
 
-|      | Aligns content in the center of the screen or container. | `Center(child: ...)` |  |  |
+| Center | Aligns content in the center of the screen or container. | `Center(child: ...)` | middle |  |
 
-|      | Automatically puts widgets onto a new line when there's no space. | `Wrap(children: [...])` |  |  |
+| Wrap | Automatically puts widgets onto a new line when there's no space. | `Wrap(children: [...])` | lines |  |
 
-|      | This marks a method as one that’s replacing a method in a parent class. | `@override` |  |  |
+| @override | This marks a method as one that’s replacing a method in a parent class. | `@override` | new method |  |
 
-|      | The special function in every widget that describes what gets drawn on the screen. | `Widget build(BuildContext context) {...}` |  |  |
+| build | The special function in every widget that describes what gets drawn on the screen. | `Widget build(BuildContext context) {...}` | drawing |  |
 
-|      | Required in every widget class to describe what to show. | `build` |  |  |
+| BuildContext | Required in every widget class to describe what to show. | `build` | where your at |  |
 
-|      | A variable that helps the widget know where it is and lets it communicate with the app. | `BuildContext context` |  |  |
+| super.key | A variable that helps the widget know where it is and lets it communicate with the app. | `BuildContext context` | where/ who |  |
 
-|      | A keyword used to pass a value to the parent widget. | `super.key` |  |  |
+| const | A keyword used to pass a value to the parent widget. | `super.key` | username |  |
 
 |      | A keyword that means the value won't change and is set once. | `const` |  |  |
 
